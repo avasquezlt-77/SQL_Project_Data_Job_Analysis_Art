@@ -1,0 +1,7 @@
+# Carpetas de datos y sistema
+**/__MACOSX/
+**/csv_files/
+.DS_Store
+
+# Archivos temporales de SQL
+*.session.sql
